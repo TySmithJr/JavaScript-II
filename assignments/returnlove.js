@@ -1,0 +1,3 @@
+function returnlove() {
+  return love;
+}
